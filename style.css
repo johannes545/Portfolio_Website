@@ -1,6 +1,5 @@
 /* display background color black on navbar scroll */
-@media all and (min-width: 768px) {
-}
+
 
 .navbarScroll.navbarDark {
     background-color: black;
